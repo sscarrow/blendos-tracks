@@ -12,7 +12,6 @@ packages:
   - 'sddm'
   - 'qt6'
   - 'kf6'
-  - 'pipewire-jack'
   - 'firefox'
   - 'libglvnd'
   - 'pipewire-pulse'
