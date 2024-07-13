@@ -9,14 +9,15 @@ package-repos:
 packages:
   - 'kde-system-meta'
   - 'kde-utilities-meta'
-  - 'plasma'
+  - 'plasma-meta'
   - 'plasma-workspace'
   - 'sddm'
-  - 'waydroid'
-  - 'waydroid-image'
+  - 'qt6'
+  - 'kf6'
+  - 'pipewire-jack'
+  - 'kde-applications-meta'
+  - 'firefox'
+  - 'libglvnd'
 
 services:
   - 'sddm'
-
-commands:
-  - 'rm -f /usr/share/applications/Waydroid.desktop'
