@@ -19,8 +19,5 @@ packages:
   - 'pipewire'
   - 'pipewire-jack'
 
-aur-packages:
-  - 'kde-applications-nogames-nodevel-noedu-meta'
-
 services:
   - 'sddm'
