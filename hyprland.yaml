@@ -48,5 +48,5 @@ packages:
   - 'chaotic-aur/hyprshot'
   - 'chaotic-aur/nwg-dock-hyprland'
   - 'chaotic-aur/xdg-desktop-portal-hyprland-git
-  
-services:
+ 
+#services:
