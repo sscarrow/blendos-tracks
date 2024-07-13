@@ -15,12 +15,12 @@ packages:
   - 'qt6'
   - 'kf6'
   - 'pipewire-jack'
-  - 'kde-applications-meta'
   - 'firefox'
   - 'libglvnd'
   - 'pipewire-pulse'
   - 'pipewire'
   - 'pipewire-jack'
+  - 'kde-applications-nogames-nodevel-noedu-meta'
 
 services:
   - 'sddm'
