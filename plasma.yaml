@@ -10,14 +10,6 @@ packages:
   - 'sddm'
   - 'waydroid'
   - 'waydroid-image'
-  -	'kde-development-environment-meta'
-  - 'kde-applications-meta'
-  - 'kde-multimedia-meta'
-  - 'kde-network-meta'
-  - 'kde-office-meta'
-  - 'kf6' 
-  - 'pyqt6'
-  - 'qt6'
 
 services:
   - 'sddm'
