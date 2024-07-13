@@ -18,6 +18,8 @@ packages:
   - 'kde-applications-meta'
   - 'firefox'
   - 'libglvnd'
+  - 'pipewire-pulse'
+  - 'pipewire'
 
 services:
   - 'sddm'
