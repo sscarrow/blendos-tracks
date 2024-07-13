@@ -8,8 +8,8 @@ packages:
   - 'kde-utilities-meta'
   - 'plasma-workspace'
   - 'sddm'
-  - 'waydroid'
-  - 'waydroid-image'
+#  - 'waydroid'
+#  - 'waydroid-image'
 
 services:
   - 'sddm'
