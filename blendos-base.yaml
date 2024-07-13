@@ -74,7 +74,7 @@ packages:
   - 'mkinitcpio'
   - 'mkinitcpio-archiso'
   - 'mkinitcpio-nfs-utils'
-  - 'mkinitcpio-systemd-tools'
+  - 'mkinitcpio-systemd-tool'
 #  - 'modemmanager'
   - 'mtools'
   - 'nano'
