@@ -1,0 +1,52 @@
+impl: 'https://github.com/blend-os/tracks/raw/main'
+  
+track: blendos-base
+
+package-repos:
+  - name: 'chaotic-aur'
+    repo-url: 'https://cdn-mirror.chaotic.cx/$repo/$arch'
+#  - name: 'multilib'
+#    repo-url: 'https://mirror.funami.tech/arch/$repo/os/$arch'
+
+packages:    
+  - 'chaotic-aur/hyprcursor-git'
+  - 'chaotic-aur/hyprlang-git'
+  - 'chaotic-aur/hyprwayland-scanner-git'
+  - 'cairo'
+  - 'cmake'
+  - 'cpio'
+  - 'gcc'
+  - 'gdb'
+  - 'libdisplay-info'
+  - 'libinput'
+  - 'libliftoff'
+  - 'libx11'
+  - 'libxcb'
+  - 'libxcomposite'
+  - 'libxfixes'
+  - 'libxkbcommon'
+  - 'libxrender'
+  - 'meson'
+  - 'ninja'
+  - 'pango'
+  - 'pixman'
+  - 'seatd'
+  - 'tomlplusplus'
+  - 'wayland-protocols'
+  - 'xcb-proto'
+  - 'xcb-util'
+  - 'xcb-util-errors'
+  - 'xcb-util-keysyms'
+  - 'xcb-util-wm'
+  - 'xorg-xinput'
+  - 'xorg-xwayland'
+  - 'chaotic-aur/hypridle-git'
+  - 'chaotic-aur/hyprland-git'
+  - 'chaotic-aur/hyprlock-git'
+  - 'chaotic-aur/hyprpaper-git'
+  - 'chaotic-aur/hyprpicker-git'
+  - 'chaotic-aur/hyprshot'
+  - 'chaotic-aur/nwg-dock-hyprland'
+  - 'chaotic-aur/xdg-desktop-portal-hyprland-git
+  
+services:
