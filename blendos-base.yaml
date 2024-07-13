@@ -2,7 +2,6 @@ track: 'custom'
 
 packages:
   - 'alsa-utils'
-  - 'amd-ucode'
   - 'arch-install-scripts'
   - 'b43-fwcutter'
   - 'archlinux-keyring'
@@ -39,7 +38,6 @@ packages:
   - 'blend'
   - 'blend-settings'
   - 'brltty'
-  - 'broadcom-wl-dkms'
   - 'btrfs-progs'
   - 'cryptsetup'
   - 'dhclient'
