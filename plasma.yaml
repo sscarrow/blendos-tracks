@@ -16,3 +16,5 @@ services:
 
 commands:
   - 'rm -f /usr/share/applications/Waydroid.desktop'
+  - 'echo "en_US.UTF-8 UTF-8" | tee /etc/locale.gen'
+  - 'locale-gen'
