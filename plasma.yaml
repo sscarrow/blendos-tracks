@@ -7,12 +7,13 @@ package-repos:
     repo-url: 'https://cloudflaremirrors.com/archlinux/$repo/os/$arch'
 
 packages:
-  - 'plasma-meta'
+  - 'plasma'
   - 'kde-system-meta'
   - 'kde-utilities-meta'
   - 'plasma-workspace'
-  - 'linux'
-  - 'linux-headers'
+  - 'sddm'
+  - 'waydroid'
+  - 'waydroid-image'
 
 services:
   - 'sddm'
