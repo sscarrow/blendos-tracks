@@ -7,11 +7,12 @@ package-repos:
     repo-url: 'https://cloudflaremirrors.com/archlinux/$repo/os/$arch'
 
 packages:
-  - 'plasma'
-  - kde-system-meta
-  - kde-utilities-meta
+  - 'plasma-meta'
+  - 'kde-system-meta'
+  - 'kde-utilities-meta'
   - 'plasma-workspace'
-  - 'sddm'
+  - 'linux'
+  - 'linux-headers'
 
 services:
   - 'sddm'
