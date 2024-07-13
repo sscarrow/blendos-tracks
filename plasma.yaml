@@ -12,13 +12,6 @@ packages:
   - kde-utilities-meta
   - 'plasma-workspace'
   - 'sddm'
-  - 'qt6'
-  - 'kf6'
-  - 'firefox'
-  - 'libglvnd'
-  - 'pipewire-pulse'
-  - 'pipewire'
-  - 'pipewire-jack'
 
 services:
   - 'sddm'
