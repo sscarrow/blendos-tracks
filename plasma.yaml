@@ -2,6 +2,10 @@ impl: 'https://github.com/blend-os/tracks/raw/main'
 
 track: 'blendos-base'
 
+package-repos:
+  - name: 'multilib'
+    repo-url: 'https://cloudflaremirrors.com/archlinux/$repo/os/$arch'
+
 packages:
   - 'kde-system-meta'
   - 'kde-utilities-meta'
